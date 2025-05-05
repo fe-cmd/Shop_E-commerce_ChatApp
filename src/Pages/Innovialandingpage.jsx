@@ -1,12 +1,10 @@
 import React from 'react';
 import './CSS/Innovialandingpage.css';
-import inn2 from '../Components/Assets/inn2.PNG';
 import innov from '../Components/Assets/innov.jpg';
 import innov1 from '../Components/Assets/innov1.png';
 import rob from '../Components/Assets/rob.jpg';
 import rob1 from '../Components/Assets/rob1.jpg';
 import rob2 from '../Components/Assets/rob2.jpg';
-import rob3 from '../Components/Assets/rob3.jpg';
 
 
 
